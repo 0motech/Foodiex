@@ -1,16 +1,36 @@
-# React + Vite
+# 🍔 FoodieX - Premium Food Delivery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, minimalist, and highly responsive food delivery application built with React.js. It features a seamless user experience, a functional shopping cart, and a full admin dashboard for managing products and orders.
 
-Currently, two official plugins are available:
+🔗 **[Live Demo: Click Here to View the App](https://github.com/0motech/Foodiex)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🔐 Demo Accounts
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+To fully explore the application's features, you can log in using the following demo credentials:
 
-## Expanding the ESLint configuration
+**🟢 User Account (To test ordering and cart functionality):**
+* **Email:** `user@foodiex.com`
+* **Password:** `user123`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**🔴 Admin Account (To test the dashboard, add/edit products, and manage order status):**
+* **Email:** `admin@foodiex.com`
+* **Password:** `admin123`
+
+---
+
+## ✨ Key Features
+
+* **Premium Minimalist UI:** Glassmorphism effects, smooth staggered animations, and modern micro-interactions.
+* **State Management:** Complete cart and order management handled seamlessly.
+* **Data Persistence:** Integrated with `localStorage` so your cart and session remain active even after refreshing the page.
+* **Bilingual Support (i18n):** Full support for English (LTR) and Arabic (RTL) out of the box.
+* **Admin Dashboard:** Full CRUD operations for menu items and real-time order status updates.
+
+## 🛠️ Tech Stack
+
+* React.js (Vite)
+* Custom CSS (No external UI libraries to demonstrate CSS proficiency)
+* LocalStorage for state persistence
+* GitHub Pages for deployment
