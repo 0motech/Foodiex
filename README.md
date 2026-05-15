@@ -2,7 +2,7 @@
 
 A clean, minimalist, and highly responsive food delivery application built with React.js. It features a seamless user experience, a functional shopping cart, and a full admin dashboard for managing products and orders.
 
-🔗 **[Live Demo: Click Here to View the App](https://github.com/0motech/Foodiex)**
+🔗 **[Live Demo: Click Here to View the App](https://0motech.github.io/Foodiex/)**
 
 ---
 
